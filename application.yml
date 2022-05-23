@@ -1,0 +1,5 @@
+password:
+  salesforce: 'sfpwd'
+  heroku: 'herokupwd'
+  postgresdb: 'postgresdb'
+  
