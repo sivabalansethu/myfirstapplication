@@ -1,4 +1,4 @@
 password:
   salesforce: 'sfpwd'
-  heroku: 'herokupwd'
+  heroku: 'herokupwdchanged'
   postgresdb: 'postgresdb'
